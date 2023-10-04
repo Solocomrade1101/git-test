@@ -1,1 +1,1 @@
-alert('fffff')
+console.log('test 2')
